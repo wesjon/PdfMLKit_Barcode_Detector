@@ -1,0 +1,2 @@
+rootProject.name = "Pdf barcode detection"
+include ':app'
