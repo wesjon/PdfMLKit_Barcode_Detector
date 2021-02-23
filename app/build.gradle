@@ -41,5 +41,5 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
 
     // MLKit Libraries
-    implementation 'com.google.mlkit:barcode-scanning:16.0.3'
+    implementation 'com.google.mlkit:barcode-scanning:16.1.1'
 }
